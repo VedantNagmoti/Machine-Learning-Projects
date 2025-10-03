@@ -2,7 +2,8 @@
 This repository contains my collection of Machine Learning projects, organized topic-wise.   Each folder includes Jupyter Notebooks that demonstrate concepts with practical datasets.
 
 
-🛠 Tech Stack
+**🛠 Tech Stack**
+	
 	Python
 	Pandas, NumPy
 	Scikit-learn
