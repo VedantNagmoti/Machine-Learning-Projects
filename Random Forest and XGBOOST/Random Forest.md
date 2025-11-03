@@ -1,0 +1,2 @@
+# Random Forest 
+It is a machine learning algorithm that uses an ensemble of multiple decision trees to make more accurate and stable predictions. It improves on single decision trees by creating a "forest" where each tree is trained on a random subset of the data and features. For classification, the final prediction is determined by the majority vote of all the trees, while for regression, it is the average of all the individual tree predictions
